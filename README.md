@@ -3,7 +3,7 @@
 > **Trust Label:** `educational-reference`  
 > **Verification:** [VERIFICATION-LOG.md](VERIFICATION-LOG.md)  
 > **Status:** Educational pure-function reference + Deep documentation pass  
-> **Parent Catalog:** [wax-ecosystem-blueprint-catalog](https://github.com/pixel-journey/wax-ecosystem-blueprint-catalog)
+> **Catalog:** `wax-ecosystem-blueprint-catalog` (private index; not this public course)
 
 **One-sentence goal:** Teach a pure, truncating product of principal × fee rate × time-in-range share, and keep it clearly separate from any live Alcor v2 pool read or historical backtest claim.
 
